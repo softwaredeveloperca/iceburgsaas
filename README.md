@@ -1,5 +1,3 @@
-[<img src="https://api.gitsponsors.com/api/badge/img?id=628132862" height="90">](https://api.gitsponsors.com/api/badge/link?p=/9wv++wEwMYp3pU7ulFXu+qeucE+RLoFtDeOILO/9fKcEzLZVXZVqgTvoXYYWYssgiAFs8ej3O2/yV/ddTUWYEQ+hKWDXgiTXcZ8veXvjaG2vakiaG4ZN5TtqtU5gs5He7FMRc6C8fS8pI31cgh9bA==)
-
 IceburgCRM SaaS
 ===============
 
